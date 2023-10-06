@@ -80,3 +80,6 @@ sudo docker-compose.production up -d
 ## Лицензия
 
 Этот проект лицензирован по лицензии MIT. Подробности смотрите в файле `LICENSE`.
+
+## Backend:
+https://github.com/atsterq/
