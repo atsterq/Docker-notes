@@ -61,7 +61,7 @@ ALLOWED_HOSTS=localhost,127.0.0.1,158.160.70.1,0.0.0.0,<IP или названи
 
 - Запустите docker-compose:
 ```
-sudo docker-compose.production up -d
+sudo docker-compose -f docker-compose.production.yml up -d
 ```
 
 ## Структура проекта
